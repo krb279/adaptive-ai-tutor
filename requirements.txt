@@ -1,0 +1,2 @@
+# No external Python packages are required for the CLI version.
+# Optional: install Ollama separately from https://ollama.com
